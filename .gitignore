@@ -3,3 +3,4 @@ __pycache__/
 *.log
 datasets
 my_california_housing_model.pkl
+practice\datasets\spam
