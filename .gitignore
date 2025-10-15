@@ -4,3 +4,4 @@ __pycache__/
 datasets
 my_california_housing_model.pkl
 practice\datasets\spam
+my_mnist.mmap
