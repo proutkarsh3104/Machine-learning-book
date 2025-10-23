@@ -1,0 +1,36 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Deep learning
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+
+# Computer Vision
+opencv-python
+pillow
+
+# Utility libraries
+joblib
+tqdm
