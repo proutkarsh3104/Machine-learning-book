@@ -8,3 +8,5 @@ my_mnist.mmap
 iris_tree.dot
 images
 .ai
+*.keras
+*.h5
