@@ -10,3 +10,4 @@ images
 .ai
 *.keras
 *.h5
+my_logs
