@@ -11,3 +11,4 @@ images
 *.keras
 *.h5
 my_logs
+my_fashion_mnist
