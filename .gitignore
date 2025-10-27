@@ -12,3 +12,4 @@ images
 *.h5
 my_logs
 my_fashion_mnist
+practice/my_mnist_logs
