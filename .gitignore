@@ -16,3 +16,4 @@ practice/my_mnist_logs
 practice/my_cifar10_logs
 myai
 /home/utkarsh/Desktop/Machine-learning-book/myai
+echo "myai/" >> .gitignore

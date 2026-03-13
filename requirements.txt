@@ -8,11 +8,11 @@ lightgbm
 catboost
 imbalanced-learn
 
-tensorflow
+# tensorflow
 keras
-torch
-torchvision
-torchaudio
+# torch
+# torchvision
+# torchaudio
 
 matplotlib
 seaborn
