@@ -10,6 +10,8 @@ images
 .ai
 *.keras
 *.h5
+*.pt
+*.pth
 my_logs
 my_fashion_mnist
 practice/my_mnist_logs
